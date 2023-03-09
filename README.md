@@ -1,4 +1,4 @@
-## Tajbi-Ul-Hasan Bithto
+## Hasan_Bithto
 
 - 👋 Hi there, I'm Tajbi-Ul-Hasan Bithto.
 
