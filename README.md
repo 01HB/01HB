@@ -1,10 +1,10 @@
-## Hasan_Bithto
+### Welcome!
 
-- 👋 Hi there, I'm Tajbi-Ul-Hasan Bithto.
+- 👋 Hi there, I'm <b><i>Tajbi-Ul-Hasan Bithto</i></b>.
 
 - 🌱 I’m interested in AI, ML, DL, Data Science, Web development.
 
-- 🎓 Currently I'm pursuing my Bachelor's degree in Computer Science & Engineering from American International University-Bangladesh (AIUB).
+- 🎓 Currently, I'm pursuing my Bachelor's degree in Computer Science & Engineering from American International University-Bangladesh (AIUB).
 
 - 📧 reach me at- <a href="mailto:hasanbithto207058@gmail.com"><img align="center" alt="Email" src="https://img.shields.io/badge/hasanbithto207058@gmail.com-gray?logo=gmail"></a>
 
