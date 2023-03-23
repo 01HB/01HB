@@ -4,35 +4,48 @@
 
 - 🌱 I’m interested in AI, ML, DL, Data Science, Web development.
 
-- 🎓 Currently, I'm pursuing my Bachelor's degree in Computer Science & Engineering from American International University-Bangladesh (AIUB).
+- 🎓 Currently, I'm pursuing my Bachelor's degree in Computer Science & Engineering at American International University-Bangladesh (AIUB).
 
-- 📧 reach me at- <a href="mailto:hasanbithto207058@gmail.com"><img align="center" alt="Email" src="https://img.shields.io/badge/hasanbithto207058@gmail.com-gray?logo=gmail"></a>
+- <a href="mailto:hasanbithto207058@gmail.com"><img align="center" alt="Email" src="https://img.shields.io/badge/hasanbithto207058@gmail.com-gray?logo=gmail"></a>
 
-<h4 align="left">Connections:</h4>
-<p align="left">
-	<a href="https://linkedin.com/in/hasanbithto" target="blank">
-		<img align="center" src="https://img.icons8.com/fluency/48/null/linkedin.png" alt="hasanbithto" height="35" width="35"/>
-	</a>
-	<a href="https://instagram.com/hasan.bithto" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasan.bithto" height="26" width="26" />
-	</a>
-	<a href="https://codeforces.com/profile/hasan_bithto" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hasan_bithto" height="30" width="30" />
-	</a>
-</p>
+- <div>
+	<details>
+	<summary style="color: blue;">see more</summary>
+	<br>
+	<p align="left">
+		<a href="https://linkedin.com/in/hasanbithto" target="blank">
+			<img align="center" src="https://img.icons8.com/fluency/48/null/linkedin.png" alt="hasanbithto" height="35" width="35"/>
+		</a>
+		<a href="https://instagram.com/hasan.bithto" target="blank">
+			<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasan.bithto" height="26" width="26" />
+		</a>
+		<a href="https://discord.gg/#2679" target="blank">
+			<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hasan Bithto#2679" height="30" width="30" />
+		</a>
+		<a href="https://kaggle.com/hasanbithto" target="blank">
+			<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hasanbithto" height="24" width="24" />
+		</a>
+		<a href="https://codeforces.com/profile/hasan_bithto" target="blank">
+			<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hasan_bithto" height="30" width="30" />
+		</a>
+	</p>
+	</details>
+  </div>
 
-
-
+<br>
 <p align="center">
    <table border=2>
-      <tr>
+   	<tr>
 	      <th>GitHub Stats</th>
-        <th>Language Contribution</th>
-	    </tr>
-      <tr>
-       <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=01HB&show_icons=true&locale=en&theme=midnight-purple" alt="01HB" /></td>
-       <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=01HB&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="01HB" /></td>
-      </tr>
+	      <th colspan='2'>Language Contributions</th>
+	</tr>
+	<tr>
+       <!--<td><img align="center" src="https://github-readme-stats.vercel.app/api?username=01HB&show_icons=true&locale=en&theme=midnight-purple" alt="01HB" /></td>
+       <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=01HB&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="01HB" /></td>-->
+		<td><img align="center" src="https://github-stats-alpha.vercel.app/api?username=01HB&cc=141414&tc=00E7FF&ic=FFFFFF&bc=4C0033" alt="01HB" /></td>
+		<td><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=01HB&theme=dark" alt="01HB" /></td>
+		<td><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=01HB&theme=dark" alt="01HB" /></td>
+	</tr>
    </table>
 </p>
 
@@ -63,7 +76,7 @@
 	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
 	</a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+	<a href="https://www.php.net" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/>
 	</a>
 	<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
