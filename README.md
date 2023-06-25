@@ -2,9 +2,9 @@
 
 - 👋 Hi there, I'm <b><i>Tajbi-Ul-Hasan Bithto</i></b>.
 
-- 🌱 I’m interested in and focusing on AI, ML, DL, Data Science, Web development.
+- 🌱 I’m interested in and focusing on AI, ML, DL, Data Science, and Web Development.
 
-- 🎓 Currently, I'm pursuing my Bachelor's degree in Computer Science & Engineering at American International University-Bangladesh (AIUB).
+- 🎓 Currently, I'm pursuing my Bachelor's degree in Computer Science & Engineering at <a href="https://www.aiub.edu/">American International University-Bangladesh<a>.
 
 - <a href="mailto:hasanbithto207058@gmail.com"><img align="center" alt="Email" src="https://img.shields.io/badge/hasanbithto207058@gmail.com-gray?logo=gmail"></a>
 
@@ -50,7 +50,11 @@
 </p>
 
 
-![Profile views](https://gpvc.arturio.dev/01HB)
+<!-- ![Profile views](https://gpvc.arturio.dev/01HB) -->
+<h4 align="center">Views Count :arrow_down:</h4>
+<p align="center">
+	<img src="https://profile-counter.glitch.me/{01HB}/count.svg" alt="01HB :: visitors count" />
+</p>
 
 
 <h4 align="left">Languages and Tools:</h4>
