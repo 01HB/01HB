@@ -78,10 +78,22 @@
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35" align="center"/>
 	</a>
 	<a href="https://www.php.net" target="_blank" rel="noreferrer">
-		<img src="https://skillicons.dev/icons?i=php" alt="php" width="30" height="30" align="center"/>
+		<img src="https://skillicons.dev/icons?i=php" alt="php" width="33" height="33" align="center"/>
+	</a>
+	<a href="#" target="_blank" rel="noreferrer">
+		<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="55" height="55" align="center"/>
 	</a>
 	<a href="#" target="_blank" rel="noreferrer">
 		<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="oracle" width="45" height="45" align="center"/>
+	</a>
+	<a href="#" target="_blank" rel="noreferrer">
+		<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="45" height="45" align="center"/>
+	</a>
+	<a href="#" target="_blank" rel="noreferrer">
+		<img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40" align="center"/>
+	</a>
+	<a href="#" target="_blank" rel="noreferrer">
+		<img src="https://skillicons.dev/icons?i=postgres" alt="postgres" width="40" height="40" align="center"/>
 	</a>
 	<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35" align="center"/>
