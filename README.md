@@ -60,37 +60,31 @@
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
 	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/>
+		<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cplusplus" width="50" height="50" align="center"/>
 	</a>
 	<a href="https://www.python.org" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
+		<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="35" height="35" align="center"/>
 	</a>
 	<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/>
-	</a>
-	<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/>
+		<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="csharp" width="45" height="45" align="center"/>
 	</a>
 	<a href="https://www.java.com" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
+		<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="35" height="35" align="center"/>
 	</a>
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35" align="center"/>
 	</a>
 	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35" align="center"/>
 	</a>
 	<a href="https://www.php.net" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/>
+		<img src="https://skillicons.dev/icons?i=php" alt="php" width="30" height="30" align="center"/>
 	</a>
-	<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="30" height="30"/>
-	</a>
-	<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-		<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"/>
+	<a href="#" target="_blank" rel="noreferrer">
+		<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="oracle" width="45" height="45" align="center"/>
 	</a>
 	<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35" align="center"/>
 	</a>
 </p>
 
