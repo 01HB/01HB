@@ -1,10 +1,10 @@
 ### Welcome!
 
-- 👋 Hi there, I'm <b><i>Tajbi-Ul-Hasan Bithto</i></b>
+- 👋 Hi there, I'm <b><i>Tajbi-Ul-Hasan Bithto</i></b>.
 
-- 🌱 I’m interested in and focusing on AI, ML, DL, Data Science, and Web Development
+- 🌱 I’m interested in and focusing on AI, ML, DL, Data Science, and Web Development.
 
-- 🎓 Currently, I'm pursuing my Bachelor's degree in Computer Science & Engineering at <a href="https://www.aiub.edu/">American International University-Bangladesh<a>
+- 🎓 Currently, I'm pursuing my Bachelor's degree in Computer Science & Engineering at <a href="https://www.aiub.edu/">American International University-Bangladesh<a>.
 
 - <a href="mailto:hasanbithto207058@gmail.com"><img align="center" alt="Email" src="https://img.shields.io/badge/hasanbithto207058@gmail.com-gray?logo=gmail"></a>
 
