@@ -1,8 +1,8 @@
 ### Welcome!
 
-- 👋 Hi there, I'm <b><i>Tajbi-Ul-Hasan Bithto</i></b>
+- 👋 Hi there, I'm <b><i>Tajbi-Ul-Hasan Bithto</i></b>.
 
-- 🌱 I’m interested in and focusing on AI, ML, DL, Data Science, and Web Development
+- 🌱 I’m interested in and focusing on AI, ML, DL, Data Science, and Web Development.
 
 - 🎓 Currently, I'm pursuing my Bachelor's degree in Computer Science & Engineering at <a href="https://www.aiub.edu/">American International University-Bangladesh<a>.
 
