@@ -1,6 +1,6 @@
 ### Welcome!
 
-- 👋 Hi there, I'm <b><i>Tajbi-Ul-Hasan Bithto</i></b>
+- 👋 Hi there, I'm <b><i>Tajbi-Ul-Hasan Bithto</i></b>.
 
 - 🌱 I’m interested in and focusing on AI, ML, DL, Data Science, and Web Development.
 
