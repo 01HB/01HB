@@ -2,15 +2,17 @@
 
 - 👋 Hi there, I'm <b><i>Tajbi-Ul-Hasan Bithto</i></b>
 
-- 🌱 I’m interested in and focusing on AI, ML, DL, Data Science, and Web Development
+- 🖇️ Adept at developing applications using frontend technologies like React, Next.js and backend technologies like Node.js, Python, PHP.
 
-- 🎓 Currently, I'm pursuing my Bachelor's degree in Computer Science & Engineering at <a href="https://www.aiub.edu/">American International University-Bangladesh<a>.
+- 🌱 Focusing on AI, Data Science, and Web Development works
+
+- 🎓 Completed my bachelor's in Computer Science & Engineering at <a href="https://www.aiub.edu/">American International University-Bangladesh<a>.
 
 - <a href="mailto:hasanbithto207058@gmail.com"><img align="center" alt="Email" src="https://img.shields.io/badge/hasanbithto207058@gmail.com-gray?logo=gmail"></a>
 
 - <div>
 	<details>
-	<summary style="color: blue;">see more</summary>
+	<summary style="color: blue;">more ways to connect</summary>
 	<br>
 	<p align="left">
 		<a href="https://linkedin.com/in/hasanbithto" target="blank">
@@ -57,47 +59,28 @@
 </p>
 
 
-<h4 align="left">Languages and Tools:</h4>
+<h4 align="left">Tech Stack</h4>
 <p align="left">
-	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-		<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cplusplus" width="50" height="50" align="center"/>
-	</a>
-	<a href="https://www.python.org" target="_blank" rel="noreferrer">
-		<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="35" height="35" align="center"/>
-	</a>
-	<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-		<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="csharp" width="45" height="45" align="center"/>
-	</a>
-	<a href="https://www.java.com" target="_blank" rel="noreferrer">
-		<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="35" height="35" align="center"/>
-	</a>
-	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35" align="center"/>
-	</a>
-	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35" align="center"/>
-	</a>
-	<a href="https://www.php.net" target="_blank" rel="noreferrer">
-		<img src="https://skillicons.dev/icons?i=php" alt="php" width="33" height="33" align="center"/>
-	</a>
-	<a href="#" target="_blank" rel="noreferrer">
-		<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="55" height="55" align="center"/>
-	</a>
-	<a href="#" target="_blank" rel="noreferrer">
-		<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="oracle" width="45" height="45" align="center"/>
-	</a>
-	<a href="#" target="_blank" rel="noreferrer">
-		<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="45" height="45" align="center"/>
-	</a>
-	<a href="#" target="_blank" rel="noreferrer">
-		<img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40" align="center"/>
-	</a>
-	<a href="#" target="_blank" rel="noreferrer">
-		<img src="https://skillicons.dev/icons?i=postgres" alt="postgres" width="40" height="40" align="center"/>
-	</a>
-	<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35" align="center"/>
-	</a>
+	<img alt="ReactJS" src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" align="center"/>
+	<img alt="NextJS" src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" align="center"/>
+	<img alt="NodeJS" src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" align="center"/>
+	<img alt="NestJS" src="https://skillicons.dev/icons?i=nestjs" width="40" height="40" align="center"/>
+	<img alt="Laravel" src="https://skillicons.dev/icons?i=laravel" width="40" height="40" align="center" />
+	<br />
+	<img alt="Python" src="https://techstack-generator.vercel.app/python-icon.svg" width="40" height="40" align="center"/>
+	<img alt="Typescript" src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" align="center"/>
+	<img alt="Javascript" src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" align="center"/>
+	<img alt="PHP" src="https://skillicons.dev/icons?i=php" width="40" height="40" align="center"/>
+	<img alt="C++" src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50" height="50" align="center"/>
+	<br />
+	<img alt="Tailwind" src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" align="center" />
+	<img alt="Postgres" src="https://skillicons.dev/icons?i=postgres" width="40" height="40" align="center"/>
+	<img alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" align="center" />
+	<img alt="Mysql" src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" align="center"/>
+	<br />
+	<img alt="Git" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="30" height="30" align="center" />
+	<img alt="Github" src="https://techstack-generator.vercel.app/github-icon.svg" width="45" height="45" align="center"/>
+	<br />
 </p>
 
 <!--Hasan Bithto-->
