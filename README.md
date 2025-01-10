@@ -80,6 +80,8 @@
 	<br />
 	<img alt="Git" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="30" height="30" align="center" />
 	<img alt="Github" src="https://techstack-generator.vercel.app/github-icon.svg" width="45" height="45" align="center"/>
+	<img alt="Redux" src="https://techstack-generator.vercel.app/redux-icon.svg" width="38" height="38" align="center"/>
+	<img alt="Tensorflow" src="https://skillicons.dev/icons?i=tensorflow" width="38" height="38" align="center"/>
 	<br />
 </p>
 
