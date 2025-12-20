@@ -52,10 +52,9 @@
 </p>
 
 
-<!-- ![Profile views](https://gpvc.arturio.dev/01HB) -->
-<h4 align="center">Views Count :arrow_down:</h4>
+<!-- ![Profile views] -->
 <p align="center">
-	<img src="https://profile-counter.glitch.me/{01HB}/count.svg" alt="01HB :: visitors count" />
+	<img src="https://komarev.com/ghpvc/?username=01HB&label=Profile%20Views&color=7166FF&style=flat&abbreviated=true" alt="01HB :: profile view count" />
 </p>
 
 
